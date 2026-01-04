@@ -1,3 +1,0 @@
-class Sub extends Super{
-
-}
